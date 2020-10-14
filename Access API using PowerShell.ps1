@@ -6,7 +6,7 @@ Import-Module oktaapi
 Get-Command -Module oktaapi
 
 # define variables
-$APIKey = "00xit4bO2uYPLPw9cDSRZsog15YvpLqBftyS7FJQAk"
+$APIKey = ""
 $Org = "Clarionevents"
 $OktaDomain = "https://$org.okta.com"
 
